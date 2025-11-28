@@ -1,6 +1,6 @@
 # Yuan Gao
 
-aosc111/204 final project :3
+A&O SCI C111 final project
 
 ---
 
