@@ -8,7 +8,7 @@ UCLA Statistics & Data Science
 
 My full final project report (PDF) is available here:
 
-👉 **[Click to open the report](assets/Fashion-MNIST%20Image%20Classification%20-%20Yuan%20Gao.pdf)**
+👉 **[Click to open the report](assets/Fashion_YuanGao.pdf)**
 
 ---
 
